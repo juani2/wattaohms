@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   viewBox="0 0 132.29167 132.29167"
+   version="1.1"
+   id="svg11237"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="/home/fash/Desktop/Customers/DaraChan/watta-ohms-argon-master/brand-assets/logo/png/icon-500-500.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs11231">
+    <linearGradient
+       x1="94.966469"
+       y1="370.17593"
+       x2="486.99326"
+       y2="370.17593"
+       id="linearGradientSke645ee65z8"
+       gradientTransform="scale(1.3899642,0.71944297)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#109e92"
+         id="stop10859" />
+      <stop
+         offset="100%"
+         stop-color="#109e92"
+         id="stop10861" />
+    </linearGradient>
+    <linearGradient
+       x1="317.1427"
+       y1="252.63869"
+       x2="485.81766"
+       y2="252.63869"
+       id="linearGradientSke645ee65zb"
+       gradientTransform="scale(1.2001838,0.83320573)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#33364d"
+         id="stop10864" />
+      <stop
+         offset="100%"
+         stop-color="#33364d"
+         id="stop10866" />
+    </linearGradient>
+    <linearGradient
+       x1="862.27313"
+       y1="403.53067"
+       x2="1030.4172"
+       y2="403.53067"
+       id="linearGradientSke645ee65ze"
+       gradientTransform="scale(0.83099394,1.2033782)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#109e92"
+         id="stop10869" />
+      <stop
+         offset="100%"
+         stop-color="#109e92"
+         id="stop10871" />
+    </linearGradient>
+    <linearGradient
+       x1="341.29886"
+       y1="954.57886"
+       x2="509.20123"
+       y2="954.57886"
+       id="linearGradientSke645ee65zh"
+       gradientTransform="scale(1.2061139,0.8291091)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#33364d"
+         id="stop10874" />
+      <stop
+         offset="100%"
+         stop-color="#33364d"
+         id="stop10876" />
+    </linearGradient>
+    <linearGradient
+       x1="164.84227"
+       y1="429.66534"
+       x2="332.40137"
+       y2="429.66534"
+       id="linearGradientSke645ee65zk"
+       gradientTransform="scale(0.82747296,1.2084987)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#109e92"
+         id="stop10879" />
+      <stop
+         offset="100%"
+         stop-color="#109e92"
+         id="stop10881" />
+    </linearGradient>
+    <linearGradient
+       x1="828.16022"
+       y1="289.92648"
+       x2="1218.4553"
+       y2="289.92648"
+       id="linearGradientSke645ee65zn"
+       gradientTransform="scale(0.71262362,1.4032653)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#33364d"
+         id="stop10884" />
+      <stop
+         offset="100%"
+         stop-color="#33364d"
+         id="stop10886" />
+    </linearGradient>
+    <linearGradient
+       x1="188.52576"
+       y1="418.90683"
+       x2="572.9281"
+       y2="418.90683"
+       id="linearGradientSke645ee65zq"
+       gradientTransform="scale(0.70016961,1.4282254)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#33364d"
+         id="stop10889" />
+      <stop
+         offset="100%"
+         stop-color="#33364d"
+         id="stop10891" />
+    </linearGradient>
+    <linearGradient
+       x1="226.88164"
+       y1="1029.068"
+       x2="617.41052"
+       y2="1029.068"
+       id="linearGradientSke645ee65zt"
+       gradientTransform="scale(1.399717,0.71443014)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#109e92"
+         id="stop10894" />
+      <stop
+         offset="100%"
+         stop-color="#109e92"
+         id="stop10896" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="191.68376"
+     inkscape:cy="234.91569"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="736"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata11234">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-164.70834)">
+    <g
+       id="g11943"
+       transform="matrix(0.84661375,0,0,0.84661375,69.057479,120.78653)">
+      <g
+         id="g10911"
+         transform="matrix(0.26458334,0,0,0.26458334,-11.33065,264.74884)"
+         class="selector-part">
+        <rect
+           id="rect10909"
+           fill="rgba(255,255,255,0)"
+           height="0"
+           width="0"
+           y="0"
+           x="0" />
+      </g>
+      <g
+         id="g10929"
+         class="svg-clip svg-visible"
+         style="opacity:1"
+         transform="matrix(0.20570619,0,0,0.2056106,-80.180514,51.898372)">
+        <rect
+           id="rect10913"
+           class="svg-hitbox"
+           style="fill:none"
+           height="292"
+           width="554"
+           y="0"
+           x="0" />
+        <svg
+           id="svg10927"
+           version="1.1"
+           viewBox="127 120.3 554.90323 292.04092"
+           height="292.04092"
+           width="554.90326">
+          <desc
+             id="desc10915">Created with Snap</desc>
+          <defs
+             id="defs10917" />
+          <g
+             id="g10919" />
+          <g
+             id="g10921" />
+          <g
+             id="g10925">
+            <path
+               inkscape:connector-curvature="0"
+               id="path10923"
+               style="fill:url(#linearGradientSke645ee65z8);stroke:none"
+               d="M 661.8,226 637,215.3 c -12.6,-5.4 -27.4,0.4 -32.8,13 L 567.3,314 269.8,185.9 c -4.2,-34.1 -33.4,-60.6 -68.6,-60.6 -38.1,0 -69.2,31 -69.2,69.1 0,38.1 31,69.2 69.2,69.2 12.3,0 23.9,-3.2 33.9,-8.9 l 322.4,138.9 27.1,11.7 c 10.8,4.7 23.3,1 30,-8.2 1.1,-1.5 2,-3.1 2.7,-4.8 l 11.1,-25.7 0.2,-0.4 46.3,-107.5 c 5.4,-12.5 -0.5,-27.2 -13.1,-32.7 z m -460.6,5.9 c -2.4,0 -4.7,-0.2 -7,-0.7 -17.3,-3.3 -30.4,-18.5 -30.4,-36.8 0,-20.6 16.8,-37.4 37.4,-37.4 11.2,0 21.2,4.9 28,12.7 5.8,6.6 9.4,15.3 9.4,24.8 0,20.6 -16.8,37.4 -37.4,37.4 z" />
+          </g>
+        </svg>
+      </g>
+      <g
+         id="g10947"
+         class="svg-clip svg-visible"
+         style="opacity:1"
+         transform="matrix(0.20570619,0,0,0.2056106,-28.761763,55.132862)">
+        <rect
+           id="rect10931"
+           class="svg-hitbox"
+           style="fill:none"
+           height="150"
+           width="212"
+           y="0"
+           x="0" />
+        <svg
+           id="svg10945"
+           version="1.1"
+           viewBox="375.62954 135.22954 212.44093 150.54093"
+           height="150.54092"
+           width="212.44093">
+          <desc
+             id="desc10933">Created with Snap</desc>
+          <defs
+             id="defs10935" />
+          <g
+             id="g10937" />
+          <g
+             id="g10939" />
+          <g
+             id="g10943">
+            <path
+               inkscape:connector-curvature="0"
+               id="path10941"
+               style="fill:url(#linearGradientSke645ee65zb);stroke:none"
+               d="M 545.3,279.8 387.9,212 c -6.1,-2.6 -8.9,-9.7 -6.3,-15.8 l 21,-48.7 c 2.6,-6.1 9.7,-8.9 15.8,-6.3 L 575.8,209 c 6.1,2.6 8.9,9.7 6.3,15.8 l -21,48.7 c -2.6,6.1 -9.7,8.9 -15.8,6.3 z" />
+          </g>
+        </svg>
+      </g>
+      <g
+         id="g10965"
+         class="svg-clip svg-visible"
+         style="opacity:1"
+         transform="matrix(0.20570619,0,0,0.2056106,40.250194,105.57978)">
+        <rect
+           id="rect10949"
+           class="svg-hitbox"
+           style="fill:none"
+           height="212"
+           width="149"
+           y="0"
+           x="0" />
+        <svg
+           id="svg10963"
+           version="1.1"
+           viewBox="711.54375 379.42954 149.72671 212.34093"
+           height="212.34093"
+           width="149.72672">
+          <desc
+             id="desc10951">Created with Snap</desc>
+          <defs
+             id="defs10953" />
+          <g
+             id="g10955" />
+          <g
+             id="g10957" />
+          <g
+             id="g10961">
+            <path
+               inkscape:connector-curvature="0"
+               id="path10959"
+               style="fill:url(#linearGradientSke645ee65ze);stroke:none"
+               d="m 717.5,549.4 67.1,-157.7 c 2.6,-6.1 9.7,-8.9 15.7,-6.3 l 48.7,20.7 c 6.1,2.6 8.9,9.7 6.3,15.7 l -67.1,157.7 c -2.6,6.1 -9.7,8.9 -15.7,6.3 l -48.7,-20.7 c -6,-2.6 -8.9,-9.7 -6.3,-15.7 z" />
+          </g>
+        </svg>
+      </g>
+      <g
+         id="g10983"
+         class="svg-clip svg-visible"
+         style="opacity:1"
+         transform="matrix(0.20570619,0,0,0.2056106,-22.264922,174.55967)">
+        <rect
+           id="rect10967"
+           class="svg-hitbox"
+           style="fill:none"
+           height="149"
+           width="212"
+           y="0"
+           x="0" />
+        <svg
+           id="svg10981"
+           version="1.1"
+           viewBox="406.64531 716.84531 212.50939 149.20939"
+           height="149.20938"
+           width="212.50938">
+          <desc
+             id="desc10969">Created with Snap</desc>
+          <defs
+             id="defs10971" />
+          <g
+             id="g10973" />
+          <g
+             id="g10975" />
+          <g
+             id="g10979">
+            <path
+               inkscape:connector-curvature="0"
+               id="path10977"
+               style="fill:url(#linearGradientSke645ee65zh);stroke:none"
+               d="m 448.8,722.8 158,66.4 c 6.1,2.6 9,9.6 6.4,15.7 l -20.5,48.8 c -2.6,6.1 -9.6,9 -15.7,6.4 L 419,793.7 c -6.1,-2.6 -9,-9.6 -6.4,-15.7 l 20.5,-48.8 c 2.5,-6.1 9.6,-9 15.7,-6.4 z" />
+          </g>
+        </svg>
+      </g>
+      <g
+         id="g11001"
+         class="svg-clip svg-visible"
+         style="opacity:1"
+         transform="matrix(0.20570619,0,0,0.2056106,-79.02635,112.88533)">
+        <rect
+           id="rect10985"
+           class="svg-hitbox"
+           style="fill:none"
+           height="212"
+           width="148"
+           y="0"
+           x="0" />
+        <svg
+           id="svg10999"
+           version="1.1"
+           viewBox="131.40252 413.00252 148.65063 212.49496"
+           height="212.49495"
+           width="148.65063">
+          <desc
+             id="desc10987">Created with Snap</desc>
+          <defs
+             id="defs10989" />
+          <g
+             id="g10991" />
+          <g
+             id="g10993" />
+          <g
+             id="g10997">
+            <path
+               inkscape:connector-curvature="0"
+               id="path10995"
+               style="fill:url(#linearGradientSke645ee65zk);stroke:none"
+               d="m 274.1,454.8 -65.7,158.3 c -2.5,6.1 -9.6,9 -15.7,6.5 l -48.9,-20.3 c -6.1,-2.5 -9,-9.6 -6.5,-15.7 L 203,425.4 c 2.5,-6.1 9.6,-9 15.7,-6.5 l 48.9,20.3 c 6.2,2.5 9.1,9.5 6.5,15.6 z" />
+          </g>
+        </svg>
+      </g>
+      <g
+         id="g11019"
+         class="svg-clip svg-visible"
+         style="opacity:1"
+         transform="matrix(0.20570619,0,0,0.2056106,14.583772,53.876552)">
+        <rect
+           id="rect11003"
+           class="svg-hitbox"
+           style="fill:none"
+           height="557"
+           width="288"
+           y="0"
+           x="0" />
+        <svg
+           id="svg11017"
+           version="1.1"
+           viewBox="585.16653 128 288.13347 557.6875"
+           height="557.6875"
+           width="288.13348">
+          <desc
+             id="desc11005">Created with Snap</desc>
+          <defs
+             id="defs11007" />
+          <g
+             id="g11009" />
+          <g
+             id="g11011" />
+          <g
+             id="g11015">
+            <path
+               inkscape:connector-curvature="0"
+               id="path11013"
+               style="fill:url(#linearGradientSke645ee65zn);stroke:none"
+               d="m 798.8,133 c -38.1,0 -69.2,31 -69.2,69.1 0,13.9 4.1,26.8 11.2,37.6 L 603.7,562 592.2,589.1 c -1.5,3.6 -2.2,7.4 -2,11.1 0,0.2 0,0.5 0.1,0.7 0,0.3 0,0.5 0.1,0.8 0,0 0,0.1 0,0.1 0.1,0.4 0.1,0.9 0.2,1.3 0.1,0.4 0.1,0.8 0.2,1.2 0,0.2 0.1,0.4 0.2,0.6 0.1,0.4 0.2,0.7 0.3,1 0.1,0.4 0.2,0.8 0.4,1.2 0,0.2 0.1,0.3 0.2,0.5 0.1,0.4 0.3,0.8 0.5,1.1 0.2,0.4 0.3,0.7 0.5,1.1 0.1,0.2 0.2,0.5 0.4,0.7 0,0.1 0.1,0.2 0.1,0.3 0.2,0.3 0.3,0.6 0.5,0.8 0.1,0.3 0.3,0.5 0.5,0.7 0.2,0.3 0.4,0.7 0.7,1 0.2,0.2 0.3,0.5 0.5,0.7 0.3,0.3 0.5,0.6 0.8,1 0.2,0.2 0.3,0.4 0.5,0.6 0.1,0.1 0.1,0.1 0.2,0.2 0.1,0.1 0.1,0.1 0.2,0.2 0.1,0.1 0.1,0.1 0.1,0.1 0.7,0.7 1.4,1.4 2.2,2 0,0 0,0 0,0 0.4,0.3 0.8,0.6 1.2,0.9 1.5,1.1 3.1,2 4.8,2.7 l 25,10.7 1.2,0.5 107.7,45.8 c 12.6,5.4 27.4,-0.6 32.7,-13.2 l 10.6,-24.9 c 5.4,-12.6 -0.6,-27.3 -13.2,-32.7 L 683.7,571.4 811.9,270.1 c 32.1,-6 56.4,-34.2 56.4,-68 C 868,164 837,133 798.8,133 Z m 27.3,94.7 c -6.8,7.3 -16.5,11.8 -27.3,11.8 -20.6,0 -37.4,-16.8 -37.4,-37.4 0,-0.7 0,-1.5 0.1,-2.2 v 0 c 1.1,-19.6 17.4,-35.2 37.4,-35.2 20.6,0 37.4,16.8 37.4,37.4 0,9.9 -3.9,18.9 -10.2,25.6 z" />
+          </g>
+        </svg>
+      </g>
+      <g
+         id="g11037"
+         class="svg-clip svg-visible"
+         style="opacity:1"
+         transform="matrix(0.20570619,0,0,0.2056106,-80.318896,93.445592)">
+        <rect
+           id="rect11021"
+           class="svg-hitbox"
+           style="fill:none"
+           height="559"
+           width="279"
+           y="0"
+           x="0" />
+        <svg
+           id="svg11035"
+           version="1.1"
+           viewBox="127 318.78677 279.14686 559.01323"
+           height="559.01324"
+           width="279.14685">
+          <desc
+             id="desc11023">Created with Snap</desc>
+          <defs
+             id="defs11025" />
+          <g
+             id="g11027" />
+          <g
+             id="g11029" />
+          <g
+             id="g11033">
+            <path
+               inkscape:connector-curvature="0"
+               id="path11031"
+               style="fill:url(#linearGradientSke645ee65zq);stroke:none"
+               d="m 392.1,385.2 c -1.9,-1.6 -4,-2.9 -6.3,-3.8 l -26,-10.8 -0.3,-0.1 -108.1,-44.8 c -12.7,-5.3 -27.4,0.8 -32.6,13.5 l -10.4,25 c -5.3,12.7 0.8,27.4 13.5,32.6 l 86.2,35.8 -126.4,304.6 c -28.7,8.4 -49.7,35 -49.7,66.4 0,38.1 31,69.2 69.2,69.2 38.1,0 69.2,-31 69.2,-69.2 0,-16.2 -5.6,-31.1 -15,-42.9 L 387.9,441.2 c 0.4,-0.7 0.7,-1.4 1,-2.1 l 10.4,-25 c 4.2,-10.4 1,-22.1 -7.2,-28.9 z M 201.2,841 c -20.6,0 -37.4,-16.8 -37.4,-37.4 0,-7.6 2.3,-14.6 6.1,-20.5 6.7,-10.2 18.2,-16.9 31.3,-16.9 19.3,0 35.2,14.7 37.2,33.5 v 0 c 0.1,1.3 0.2,2.6 0.2,3.9 0,20.6 -16.8,37.4 -37.4,37.4 z" />
+          </g>
+        </svg>
+      </g>
+      <g
+         id="g11055"
+         class="svg-clip svg-visible"
+         style="opacity:1"
+         transform="matrix(0.20570619,0,0,0.2056106,-42.217286,148.80241)">
+        <rect
+           id="rect11039"
+           class="svg-hitbox"
+           style="fill:none"
+           height="289"
+           width="556"
+           y="0"
+           x="0" />
+        <svg
+           id="svg11053"
+           version="1.1"
+           viewBox="312.57008 590.69439 556.62992 289.00561"
+           height="289.00562"
+           width="556.62994">
+          <desc
+             id="desc11041">Created with Snap</desc>
+          <defs
+             id="defs11043" />
+          <g
+             id="g11045" />
+          <g
+             id="g11047" />
+          <g
+             id="g11051">
+            <path
+               inkscape:connector-curvature="0"
+               id="path11049"
+               style="fill:url(#linearGradientSke645ee65zt);stroke:none"
+               d="m 795,736.3 c -12.5,0 -24.3,3.4 -34.5,9.2 L 435.5,609 408.4,597.6 c -9.7,-4 -20.6,-1.5 -27.5,5.6 -2.1,2.2 -3.9,4.7 -5.1,7.7 L 365,636.6 319.5,745 c -5.3,12.7 0.7,27.4 13.3,32.7 l 24.9,10.5 c 12.7,5.3 27.4,-0.7 32.7,-13.3 l 36.2,-86.1 299.9,126 c 4.5,33.8 33.5,59.9 68.5,59.9 38.1,0 69.2,-31 69.2,-69.2 0,-38.1 -31,-69.2 -69.2,-69.2 z m 0,106.6 c -11.3,0 -21.4,-5 -28.2,-12.9 v 0 c -5.7,-6.6 -9.2,-15.2 -9.2,-24.5 0,-20.6 16.8,-37.4 37.4,-37.4 1.9,0 3.7,0.1 5.6,0.4 18,2.7 31.9,18.3 31.9,37 0,20.6 -16.8,37.4 -37.5,37.4 z" />
+          </g>
+        </svg>
+      </g>
+      <g
+         transform="matrix(0.26458334,0,0,0.26458334,-80.651485,220.29884)"
+         id="g11075">
+        <rect
+           id="rect11073"
+           style="stroke:#ff8800;stroke-width:1"
+           fill="rgba(255,136,0,0.1)"
+           height="0"
+           width="0"
+           y="189"
+           x="369" />
+      </g>
+      <g
+         transform="matrix(0.26458334,0,0,0.26458334,-80.651485,220.29884)"
+         id="g11079"
+         class="selector-part">
+        <rect
+           id="rect11077"
+           style="stroke:#3399ff;stroke-width:1"
+           fill="rgba(168,202,236,0.5)"
+           height="0"
+           width="0"
+           y="0"
+           x="0" />
+      </g>
+    </g>
+  </g>
+</svg>
